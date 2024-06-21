@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.34928.147
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Claude-3.5-Sonnet", "Claude\Claude-3.5-Sonnet.csproj", "{B1592F37-3423-4398-9A1D-745FA3853216}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Claude", "Claude\Claude.csproj", "{B1592F37-3423-4398-9A1D-745FA3853216}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GPT-4o", "GPT-4o\GPT-4o.csproj", "{B11FF246-778E-4A06-8017-96DC74DC5F1A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPT-4o", "GPT-4o\GPT-4o.csproj", "{B11FF246-778E-4A06-8017-96DC74DC5F1A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
